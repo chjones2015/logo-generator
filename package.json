@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "name": "readme-generator",
+  "description": "## Description",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chjones2015/readme-generator.git"
+  },
+  "keywords": [
+    "Readme",
+    "Generator"
+  ],
+  "author": "Christian Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chjones2015/readme-generator/issues"
+  },
+  "homepage": "https://github.com/chjones2015/readme-generator#readme"
+}
