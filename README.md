@@ -1,4 +1,4 @@
-# readme-generator
+# logo-generator
 
 ## Description
 
@@ -14,7 +14,7 @@ N/A
 
 Link to webpage is below.
 
-https://chjones2015.github.io/readme-generator
+https://chjones2015.github.io/logo-generator
 
 ## Credits
 
@@ -43,7 +43,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-# Professional README Generator Starter Code
-
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
